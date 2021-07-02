@@ -1,2 +1,140 @@
 <!DOCTYPE>
 <html>
+<h1>Traditional birthstones, based on the month:</h1>
+      <table>
+        <tr>
+          <th>Month</th>
+          <th>Gemstone</th>
+          <th>Picture</th>
+        </tr>
+        <tr>
+          <th>January</th>
+          <th>Garet</th>
+          <th><img src="Garnet.jpg" style="width:80px;height:40px;"></th>
+        </tr>
+        <tr>
+          <th>February</th>
+          <th>Amethyst</th>
+          <th><img src="Amethyst.jpg" style="width:80px;height:40px;"></th>
+        </tr>
+        <tr>
+          <th>March</th>
+          <th>Bloodstone</th>
+          <th><img src="Bloodstone.jpg" style="width:80px;height:40px;"></th>
+        </tr>
+        <tr>
+          <th>April</th>
+          <th>Diamond</th>
+          <th><img src="Diamond.jpg" style="width:80px;height:40px;"></th>
+        </tr>
+        <tr>
+          <th>May</th>
+          <th>Emerald</th>
+          <th><img src="Emerald.jpg" style="width:80px;height:40px;"></th>
+        </tr>
+        <tr>
+          <th>June</th>
+          <th>Pearl</th>
+          <th><img src="Pearl.jpg" style="width:80px;height:40px;"></th>
+        </tr>
+        <tr>
+          <th>July</th>
+          <th>Ruby</th>
+          <th><img src="Ruby.jpg" style="width:80px;height:40px;"></th>
+        </tr>
+        <tr>
+          <th>August</th>
+          <th>Sardonyx</th>
+          <th><img src="Sardonyx.jpg" style="width:80px;height:40px;"></th>
+        </tr>
+        <tr>
+          <th>September</th>
+          <th>Sapphire</th>
+          <th><img src="Sapphire.jpg" style="width:80px;height:40px;"></th>
+        </tr>
+        <tr>
+          <th>October</th>
+          <th>Opal</th>
+          <th><img src="Opal.jpg" style="width:80px;height:40px;"></th>
+        </tr>
+        <tr>
+          <th>November</th>
+          <th>Topaz</th>
+          <th><img src="Topaz.jpg" style="width:80px;height:40px;"></th>
+        </tr>
+        <tr>
+          <th>December</th>
+          <th>Turquoise/Lapis</th>
+          <th><img src="Turquoise.jpg" style="width:40px;height:40px;"><img src="Lapis.jpg" style="width:40px;height:40px;"></th>
+        </tr>
+    </table>
+    <h1>Modern birthstones, based on the month:</h1>
+    <table>
+      <tr>
+        <th>Month</th>
+        <th>Gemstone</th>
+        <th>Picture</th>
+      </tr>
+      <tr>
+        <th>January</th>
+        <th>Garnet</th>
+        <th><img src="Garnet.jpg" style="width:80px;height:40px;"></th>
+      </tr>
+      <tr>
+        <th>February</th>
+        <th>Amethyst</th>
+        <th><img src="Amethyst.jpg" style="width:80px;height:40px;"></th>
+      </tr>
+      <tr>
+        <th>March</th>
+        <th>Aquamarine</th>
+        <th><img src="Aquamarine.jpg" style="width:80px;height:40px;"></th>
+      </tr>
+      <tr>
+        <th>April</th>
+        <th>Diamond</th>
+        <th><img src="Diamond.jpg" style="width:80px;height:40px;"></th>
+      </tr>
+      <tr>
+        <th>May</th>
+        <th>Emerald</th>
+        <th><img src="Emerald.jpg" style="width:80px;height:40px;"></th>
+      </tr>
+      <tr>
+        <th>June</th>
+        <th>Alexandrite</th>
+        <th><img src="Alexandrite.jpg" style="width:80px;height:40px;"></th>
+      </tr>
+      <tr>
+        <th>July</th>
+        <th>Ruby</th>
+        <th><img src="Ruby.jpg" style="width:80px;height:40px;"></th>
+      </tr>
+      <tr>
+        <th>August</th>
+        <th>Peridot/Spinel</th>
+        <th><img src="Peridot.jpg" style="width:40px;height:40px;"><img src="Spinel.jpg" style="width:40px;height:40px;"></th>
+      </tr>
+      <tr>
+        <th>September</th>
+        <th>Sapphire</th>
+        <th><img src="Sapphire.jpg" style="width:80px;height:40px;"></th>
+      </tr>
+      <tr>
+        <th>October</th>
+        <th>Tourmaline</th>
+        <th><img src="Tourmaline.jpg" style="width:80px;height:40px;"></th>
+      </tr>
+      <tr>
+        <th>November</th>
+        <th>Topaz/Citrine</th>
+        <th><img src="Topaz.jpg" style="width:40px;height:40px;"><img src="Citrine.jpg" style="width:40px;height:40px;"></th>
+      </tr>
+      <tr>
+        <th>December</th>
+        <th>Zircon/Tanzanite</th>
+        <th><img src="Zircon.jpg" style="width:40px;height:40px;"><img src="Tanzanite.jpg" style="width:40px;height:40px;"></th>
+      </tr>
+      </table>  
+    </p2>
+    </html>
